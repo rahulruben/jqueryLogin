@@ -1,0 +1,40 @@
+.loginTable {
+	border: solid;
+	border-width: 1px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.title {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;	
+	margin-bottom: auto;
+	padding-bottom: 25px;
+
+}
+
+.titleLogin {
+	font-size: 40px;
+	margin-bottom: auto;
+}
+.mainBtn {
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+
+button {
+	width: 100px;
+}
+
+hr {
+	display: block;
+	border-width: 1.5px;
+	border-style: inset;
+	margin-top: 20px;
+	margin-bottom: 1em;
+	width: 600px;
+}
+
